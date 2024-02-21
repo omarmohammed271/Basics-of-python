@@ -10,6 +10,7 @@
 # print('Hello' , 'Omar')
 # print('Hello' ,5)
 print('Hello',input('Enter your name:'),'your age is',input('Enter your age'))
+
 # print('Hello',input('Enter your name:'),'your age is',input('Enter your age'))
 
 
